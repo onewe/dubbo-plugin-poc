@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "dubbo-protocol-extension",
+    "extensions",
+    "extension-loader",
+    "http-protocol-extension",
+    "nacos-registry-extension",
+    "zookeeper-registry-extension"
+    ]

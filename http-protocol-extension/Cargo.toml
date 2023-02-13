@@ -1,0 +1,13 @@
+[package]
+name = "http-protocol-extension"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+
+
+[dependencies]
+extensions = {path="../extensions/", version="0.1.0"}
+
+
+[lib]
+crate-type = ["cdylib"]
