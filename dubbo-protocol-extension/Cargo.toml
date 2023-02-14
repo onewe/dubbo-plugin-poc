@@ -8,4 +8,4 @@ license = "Apache-2.0"
 extensions = {path="../extensions/", version="0.1.0"}
 
 [lib]
-crate-type = ["cdylib"]
+crate-type = ["cdylib", "lib"]

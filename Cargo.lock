@@ -19,6 +19,7 @@ dependencies = [
 name = "extension-loader"
 version = "0.1.0"
 dependencies = [
+ "dubbo-protocol-extension",
  "extensions",
  "libloading",
 ]
